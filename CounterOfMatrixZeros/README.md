@@ -33,6 +33,8 @@ In the picture you can see 8 lines of 23 lines.
 <br>
 
 ![sample result](docs/0.jpg)
+  
+For example the number 3 shows that this cell was zero in only 3 files.
 
 </details>
 
