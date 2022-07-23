@@ -17,6 +17,11 @@ It solves part of a math problem. We have 3 matrices in each line. We have to fi
 
 Please see [this link](mathematics_matrix_AlphaBetaGama) for more information and source code.
 
+### Counter Of Matrix Zeros
+We have a large number of files in which there are 69, 3x3 matrices in each file. We want to know how many files contain 0 in each cell of these matrices.
+
+Please see [this link](CounterOfMatrixZeros) for more information and source code.
+
 ## Support
 
 Reach out to the maintainer at one of the following places:
