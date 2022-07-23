@@ -70,7 +70,5 @@ If you want to say **thank you** or/and support active development of this proje
 
 ## License
 
-This project is licensed under the **GPLv3**.
-
 See [LICENSE](../LICENSE) for more information.
 
