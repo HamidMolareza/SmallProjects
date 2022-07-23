@@ -1,0 +1,9 @@
+{
+  "FilesDir": "data/matrices",
+  "FilesFormat":"*.tab",
+  "NumOfMatricesInFile": 69,
+  "NumbersRegex": "[-]*[0-9]+",
+  "NumOfMatrixRows": 3,
+  "NumOfMatrixColumns": 3,
+  "NumOfMatricesInRow": 3
+}
