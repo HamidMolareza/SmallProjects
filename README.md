@@ -12,6 +12,11 @@ In this repository, I will put the small projects that I did for others or mysel
 
 ## Projects
 
+### Mathematics problem about "New ways to multiply 3 × 3-matrices"
+It solves part of a math problem. We have 3 matrices in each line. We have to find cells that have special mathematical conditions. Then put half of the cells found in 21 lines of these matrices as 0.
+
+Please see [this link](mathematics_matrix_AlphaBetaGama) for more information and source code.
+
 ## Support
 
 Reach out to the maintainer at one of the following places:
