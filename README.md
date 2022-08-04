@@ -22,6 +22,19 @@ We have a large number of files in which there are 69, 3x3 matrices in each file
 
 Please see [this link](CounterOfMatrixZeros) for more information and source code.
 
+### Wordpress Plugin - Word Counter
+
+A plugin for [WordPress](https://wordpress.org) that adds information to each post. Information such as:
+- The number of words
+- The number of characters
+- Estimated reading of any text.
+
+These fields is displayed can be changed in the settings page. It is also possible to choose whether this information is displayed at the top of the post or at the end of the post. This information is stored in the database.
+
+> This project was just a practice project.
+
+Please see [this link](WP-WordCounter) for more information and source code.
+
 ## Support
 
 Reach out to the maintainer at one of the following places:
