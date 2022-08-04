@@ -22,6 +22,8 @@ We have a lot of files. We have 23 lines in each file. There are 3, 3x3 matrices
 
 We want to check all the files and see how many a<sub>ij</sub> is zero in these files. `i` represents the row number of the matrix and `j` represents the column number of each matrix.
 
+[Sample input file](data/matrices/2x3%2B16x2%2B51x%2B4y6%2B2y5%2B4y4%2B13y3%2Bz31%2Bz30%2Bz28/i233w215c236c-000.tab)
+
 ### Demo
 Example of an answer:
 
@@ -31,6 +33,8 @@ In the picture you can see 8 lines of 23 lines.
 <br>
 
 ![sample result](docs/0.jpg)
+  
+For example the number 3 shows that this cell was zero in only 3 files.
 
 </details>
 
