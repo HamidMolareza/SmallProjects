@@ -1,56 +1,60 @@
-# My Small Projects
+<div align="center">
+  <h1>My Small Projects</h1>
+  <br />
 
-In this repository, I will put the small projects that I did for others or myself. These projects are not big enough to be placed in a separate repository, that's why I put them here.
+  ![GitHub License](https://img.shields.io/github/license/HamidMolareza/SmallProjects) [![Code with love by Hamid Molareza](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hamid_Molareza-ff1414.svg?style=flat-square)](https://github.com/HamidMolareza)
+</div>
 
-## My goals for share projects
+This repository contains small projects that I developed for personal use or to assist others. These projects are not extensive enough to warrant their own repositories, so they are grouped here for simplicity.
 
-- knowledge transfer
-- Documentation
-
-![GitHub](https://img.shields.io/github/license/HamidMolareza/SmallProjects)
-[![code with love by GITHUB_USERNAME](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hamid_Molareza-ff1414.svg?style=flat-square)](https://github.com/HamidMolareza)
+---
 
 ## Projects
 
-### Mathematics problem about "New ways to multiply 3 × 3-matrices"
-It solves part of a math problem. We have 3 matrices in each line. We have to find cells that have special mathematical conditions. Then put half of the cells found in 21 lines of these matrices as 0.
+### 1. Mathematics Problem: *New Ways to Multiply 3 × 3 Matrices*
 
-Please see [this link](mathematics_matrix_AlphaBetaGama) for more information and source code.
+This project addresses a mathematical challenge involving 3×3 matrices. The task is to identify specific cells based on unique mathematical conditions. After identifying the cells, half of them are set to zero in 21 lines of the matrices.
 
-### Counter Of Matrix Zeros
-We have a large number of files in which there are 69, 3x3 matrices in each file. We want to know how many files contain 0 in each cell of these matrices.
+For more details and source code, check out [Mathematics Problem](mathematics_matrix_AlphaBetaGama).
 
-Please see [this link](CounterOfMatrixZeros) for more information and source code.
+---
 
-### Wordpress Plugin - Word Counter
+### 2. Matrix Zero Counter
 
-A plugin for [WordPress](https://wordpress.org) that adds information to each post. Information such as:
-- The number of words
-- The number of characters
-- Estimated reading of any text.
+This project processes a large dataset of files, each containing 69 instances of 3×3 matrices. The objective is to determine how many files contain zeros in every cell of the matrices.
 
-These fields is displayed can be changed in the settings page. It is also possible to choose whether this information is displayed at the top of the post or at the end of the post. This information is stored in the database.
+For more information and source code, refer to [Matrix Zero Counter](CounterOfMatrixZeros).
 
-> This project was just a practice project.
+---
 
-Please see [this link](WP-WordCounter) for more information and source code.
+### 3. WordPress Plugin: *Word Counter*
+
+A WordPress plugin that enhances posts with the following features:
+- Displays the number of words and characters in the post.
+- Estimates the reading time for the content.
+
+These details can be configured via a settings page, including:
+- Choosing whether to display this information at the beginning or end of the post.
+- Customizing which details to show.
+
+The data is stored in the WordPress database.
+
+> **Note:** This project was developed as a practice exercise.
+
+For more information and source code, visit [WordPress Word Counter](WP-WordCounter).
+
+---
 
 ## Support
 
-Reach out to the maintainer at one of the following places:
+If you encounter any issues or have questions, feel free to reach out via:
 
-- [GitHub issues](https://github.com/HamidMolareza/SmallProjects/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Issues](https://github.com/HamidMolareza/SmallProjects/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 
-
-## Project assistance
-
-If you want to say **thank you** or/and support active development of these projects:
-
-- Add a [GitHub Star](https://github.com/HamidMolareza/SmallProjects) to the project. 🌟
-- Introduce to others
+---
 
 ## License
 
-This project is licensed under the **GPLv3**.
+This repository is licensed under the **GPLv3**.  
 
-See [LICENSE](LICENSE) for more information.
+See the [LICENSE](LICENSE) file for more information.
